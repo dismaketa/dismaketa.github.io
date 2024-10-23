@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dismaketa.github.io/dismaketa.dismaketa
+Sitemap: https://dismaketa.github.io/app/dismaketa.dismaketa
+Sitemap: https://dismaketa.github.io/assets/dismaketa.dismaketa
+Sitemap: https://dismaketa.github.io/css/dismaketa.dismaketa
+Sitemap: https://dismaketa.github.io/includes/dismaketa.dismaketa
+Sitemap: https://dismaketa.github.io/item/dismaketa.dismaketa
+Sitemap: https://dismaketa.github.io/src/dismaketa.dismaketa
